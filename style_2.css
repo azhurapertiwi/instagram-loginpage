@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.pembungkus { 
+    border: 1px solid black;
+    background-color: #fff;
+    width: 360px;
+    border: 1px solid #dfdcdc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form {
+    border: 1 px solid blue;
+    display: flex;
+    flex-direction: column;
+    padding: 10 px;
+    align-items: center;
+}
+.instagram {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+input {
+    margin-bottom: 10px;
+    height: 30px;
+    width: 80%;
+    border-radius: 3px;
+    border: 1px solid #aaaaaa;
+}
+.login-button {
+    background-color: #49bfe6;
+    color: white;
+    height: 30px;
+    width: 80%;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+p {
+    color: #8d8b8b;
+}
+a {
+    color: #14148c;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.login_facebook {
+    font-weight: bold;
+}
+span {
+    width: 100%;
+    background-color: #aaaaaa;
+}
